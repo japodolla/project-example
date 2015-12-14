@@ -1,0 +1,41 @@
+.main {
+    max-width:500px;
+    margin:0 auto;
+    border:1px solid black;
+}
+
+h2 {
+    text-align: center;
+}
+
+label {
+    display:inline-block;
+    width: 400px;
+}
+
+input {
+    width:40px;
+    margin:10px 0;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+button {
+    display:inline-block;
+    width:175px;
+    padding:10px;
+    background:green;
+    color:white;
+    border-radius:4px;
+    margin:0 auto;
+    vertical-align: top;
+}
+
+.finalScores {
+    border: 1px solid black;
+    text-align: center;
+    width: 400px;
+    margin: 20px auto 30px;
+}
